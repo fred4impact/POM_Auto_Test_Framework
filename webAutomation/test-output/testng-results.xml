@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14490" started-at="2018-03-06T14:20:35Z" finished-at="2018-03-06T14:20:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14490" started-at="2018-03-06T14:20:35Z" finished-at="2018-03-06T14:20:49Z">
+      <class name="com.automation.Test.webAutomation.landingpage.TC01_verifyinvalidLoginUser">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.automation.Test.webAutomation.landingpage.TC01_verifyinvalidLoginUser@6fd02e5]" name="setUp" is-config="true" duration-ms="8738" started-at="2018-03-06T14:20:35Z" finished-at="2018-03-06T14:20:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyinvalidLoginUser()[pri:0, instance:com.automation.Test.webAutomation.landingpage.TC01_verifyinvalidLoginUser@6fd02e5]" name="verifyinvalidLoginUser" duration-ms="5411" started-at="2018-03-06T14:20:44Z" finished-at="2018-03-06T14:20:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyinvalidLoginUser -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.automation.Test.webAutomation.landingpage.TC01_verifyinvalidLoginUser@6fd02e5]" name="endTest" is-config="true" duration-ms="299" started-at="2018-03-06T14:20:49Z" finished-at="2018-03-06T14:20:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.automation.Test.webAutomation.landingpage.TC01_verifyinvalidLoginUser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
