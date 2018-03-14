@@ -1,0 +1,56 @@
+INFO main com.automation.Test.webAutomation.landingpage.TC01_verifyinvalidLoginUser - ====== starting Test =========
+INFO main com.automation.Test.webAutomation.webActions.landingPage - ==== clicked the login/register link and the object is :-[[ChromeDriver: chrome on MAC (ec0258cca3b7540c287884e76355cdfc)] -> class name: header-nav-link]
+INFO main com.automation.Test.webAutomation.webActions.landingPage - ==== enters the invalid email and the object is :-[[ChromeDriver: chrome on MAC (ec0258cca3b7540c287884e76355cdfc)] -> xpath: //*[@id="email"]]
+INFO main com.automation.Test.webAutomation.webActions.landingPage - ==== enters invalid password and the object is :-[[ChromeDriver: chrome on MAC (ec0258cca3b7540c287884e76355cdfc)] -> xpath: //*[@id="fld-password"]]
+INFO main com.automation.Test.webAutomation.webActions.landingPage - ==== clicked the login/register link and the object is :-[[ChromeDriver: chrome on MAC (ec0258cca3b7540c287884e76355cdfc)] -> tag name: button]
+INFO main com.automation.Test.webAutomation.landingpage.TC01_verifyinvalidLoginUser - ====== Finish verification of te user s=========
+INFO main com.automation.Test.webAutomation.landingpage.TC01_verifyinvalidLoginUser - closing the brwoser
+INFO main com.automation.Test.webAutomation.landingpage.TC01_verifyinvalidLoginUser - ====== starting Test =========
+INFO main com.automation.Test.webAutomation.webActions.landingPage - ==== clicked the login/register link and the object is :-[[ChromeDriver: chrome on MAC (898bca41bfd025d8854b7266928bb62a)] -> class name: header-nav-link]
+INFO main com.automation.Test.webAutomation.webActions.landingPage - ==== enters the invalid email and the object is :-[[ChromeDriver: chrome on MAC (898bca41bfd025d8854b7266928bb62a)] -> xpath: //*[@id="email"]]
+INFO main com.automation.Test.webAutomation.webActions.landingPage - ==== enters invalid password and the object is :-[[ChromeDriver: chrome on MAC (898bca41bfd025d8854b7266928bb62a)] -> xpath: //*[@id="fld-password"]]
+INFO main com.automation.Test.webAutomation.webActions.landingPage - ==== clicked the login/register link and the object is :-[[ChromeDriver: chrome on MAC (898bca41bfd025d8854b7266928bb62a)] -> tag name: button]
+INFO main com.automation.Test.webAutomation.landingpage.TC01_verifyinvalidLoginUser - ====== Finish verification of te user s=========
+INFO main com.automation.Test.webAutomation.landingpage.TC01_verifyinvalidLoginUser - closing the brwoser
+INFO main com.automation.Test.webAutomation.landingpage.TC01_verifyinvalidLoginUser - ====== starting Test =========
+INFO main com.automation.Test.webAutomation.webActions.landingPage - ==== clicked the login/register link and the object is :-[[ChromeDriver: chrome on MAC (27ea7c9aec500660fdca11965e613195)] -> class name: header-nav-link]
+INFO main com.automation.Test.webAutomation.webActions.landingPage - ==== enters the invalid email and the object is :-[[ChromeDriver: chrome on MAC (27ea7c9aec500660fdca11965e613195)] -> xpath: //*[@id="email"]]
+INFO main com.automation.Test.webAutomation.webActions.landingPage - ==== enters invalid password and the object is :-[[ChromeDriver: chrome on MAC (27ea7c9aec500660fdca11965e613195)] -> xpath: //*[@id="fld-password"]]
+INFO main com.automation.Test.webAutomation.webActions.landingPage - ==== clicked the login/register link and the object is :-[[ChromeDriver: chrome on MAC (27ea7c9aec500660fdca11965e613195)] -> tag name: button]
+INFO main com.automation.Test.webAutomation.landingpage.TC01_verifyinvalidLoginUser - ====== Finish verification of te user s=========
+INFO main com.automation.Test.webAutomation.landingpage.TC01_verifyinvalidLoginUser - closing the brwoser
+INFO main com.automation.Test.webAutomation.landingpage.TC01_verifyinvalidLoginUser - ====== starting Test =========
+INFO main com.automation.Test.webAutomation.webActions.landingPage - ==== clicked the login/register link and the object is :-[[ChromeDriver: chrome on MAC (ea0cd7d37d39ce6e6d6b7ef0404dfeea)] -> class name: header-nav-link]
+INFO main com.automation.Test.webAutomation.webActions.landingPage - ==== enters the invalid email and the object is :-[[ChromeDriver: chrome on MAC (ea0cd7d37d39ce6e6d6b7ef0404dfeea)] -> xpath: //*[@id="email"]]
+INFO main com.automation.Test.webAutomation.webActions.landingPage - ==== enters invalid password and the object is :-[[ChromeDriver: chrome on MAC (ea0cd7d37d39ce6e6d6b7ef0404dfeea)] -> xpath: //*[@id="fld-password"]]
+INFO main com.automation.Test.webAutomation.webActions.landingPage - ==== clicked the login/register link and the object is :-[[ChromeDriver: chrome on MAC (ea0cd7d37d39ce6e6d6b7ef0404dfeea)] -> tag name: button]
+INFO main com.automation.Test.webAutomation.landingpage.TC01_verifyinvalidLoginUser - ====== Finish verification of te user s=========
+INFO main com.automation.Test.webAutomation.landingpage.TC01_verifyinvalidLoginUser - closing the brwoser
+INFO main com.automation.Test.webAutomation.landingpage.TC01_verifyinvalidLoginUser - ====== starting Test =========
+INFO main com.automation.Test.webAutomation.webActions.landingPage - ==== clicked the login/register link and the object is :-[[ChromeDriver: chrome on MAC (328aa76b53e5098aa3aa0b7ed0952281)] -> class name: header-nav-link]
+INFO main com.automation.Test.webAutomation.webActions.landingPage - ==== enters the invalid email and the object is :-[[ChromeDriver: chrome on MAC (328aa76b53e5098aa3aa0b7ed0952281)] -> xpath: //*[@id="email"]]
+INFO main com.automation.Test.webAutomation.webActions.landingPage - ==== enters invalid password and the object is :-[[ChromeDriver: chrome on MAC (328aa76b53e5098aa3aa0b7ed0952281)] -> xpath: //*[@id="fld-password"]]
+INFO main com.automation.Test.webAutomation.webActions.landingPage - ==== clicked the login/register link and the object is :-[[ChromeDriver: chrome on MAC (328aa76b53e5098aa3aa0b7ed0952281)] -> tag name: button]
+INFO main com.automation.Test.webAutomation.landingpage.TC01_verifyinvalidLoginUser - ====== Finish verification of te user s=========
+INFO main com.automation.Test.webAutomation.landingpage.TC01_verifyinvalidLoginUser - closing the brwoser
+INFO main com.automation.Test.webAutomation.landingpage.TC01_verifyinvalidLoginUser - ====== starting Test =========
+INFO main com.automation.Test.webAutomation.webActions.landingPage - ==== clicked the login/register link and the object is :-[[ChromeDriver: chrome on MAC (bea2295f9298bc67f25afc21a154d27a)] -> class name: header-nav-link]
+INFO main com.automation.Test.webAutomation.webActions.landingPage - ==== enters the invalid email and the object is :-[[ChromeDriver: chrome on MAC (bea2295f9298bc67f25afc21a154d27a)] -> xpath: //*[@id="email"]]
+INFO main com.automation.Test.webAutomation.webActions.landingPage - ==== enters invalid password and the object is :-[[ChromeDriver: chrome on MAC (bea2295f9298bc67f25afc21a154d27a)] -> xpath: //*[@id="fld-password"]]
+INFO main com.automation.Test.webAutomation.webActions.landingPage - ==== clicked the login/register link and the object is :-[[ChromeDriver: chrome on MAC (bea2295f9298bc67f25afc21a154d27a)] -> tag name: button]
+INFO main com.automation.Test.webAutomation.landingpage.TC01_verifyinvalidLoginUser - ====== Finish verification of te user s=========
+INFO main com.automation.Test.webAutomation.landingpage.TC01_verifyinvalidLoginUser - closing the brwoser
+INFO main com.automation.Test.webAutomation.landingpage.TC01_verifyinvalidLoginUser - ====== starting Test =========
+INFO main com.automation.Test.webAutomation.webActions.landingPage - ==== clicked the login/register link and the object is :-[[ChromeDriver: chrome on MAC (831b46d55f21911869c7e2556dcd4cf1)] -> class name: header-nav-link]
+INFO main com.automation.Test.webAutomation.webActions.landingPage - ==== enters the invalid email and the object is :-[[ChromeDriver: chrome on MAC (831b46d55f21911869c7e2556dcd4cf1)] -> xpath: //*[@id="email"]]
+INFO main com.automation.Test.webAutomation.webActions.landingPage - ==== enters invalid password and the object is :-[[ChromeDriver: chrome on MAC (831b46d55f21911869c7e2556dcd4cf1)] -> xpath: //*[@id="fld-password"]]
+INFO main com.automation.Test.webAutomation.webActions.landingPage - ==== clicked the login/register link and the object is :-[[ChromeDriver: chrome on MAC (831b46d55f21911869c7e2556dcd4cf1)] -> tag name: button]
+INFO main com.automation.Test.webAutomation.landingpage.TC01_verifyinvalidLoginUser - ====== Finish verification of te user s=========
+INFO main com.automation.Test.webAutomation.landingpage.TC01_verifyinvalidLoginUser - closing the brwoser
+INFO main com.automation.Test.webAutomation.landingpage.TC01_verifyinvalidLoginUser - ====== starting Test =========
+INFO main com.automation.Test.webAutomation.webActions.landingPage - ==== clicked the login/register link and the object is :-[[ChromeDriver: chrome on MAC (274ee2406b62b54018baaab9ef96e8bf)] -> class name: header-nav-link]
+INFO main com.automation.Test.webAutomation.webActions.landingPage - ==== enters the invalid email and the object is :-[[ChromeDriver: chrome on MAC (274ee2406b62b54018baaab9ef96e8bf)] -> xpath: //*[@id="email"]]
+INFO main com.automation.Test.webAutomation.webActions.landingPage - ==== enters invalid password and the object is :-[[ChromeDriver: chrome on MAC (274ee2406b62b54018baaab9ef96e8bf)] -> xpath: //*[@id="fld-password"]]
+INFO main com.automation.Test.webAutomation.webActions.landingPage - ==== clicked the login/register link and the object is :-[[ChromeDriver: chrome on MAC (274ee2406b62b54018baaab9ef96e8bf)] -> tag name: button]
+INFO main com.automation.Test.webAutomation.landingpage.TC01_verifyinvalidLoginUser - ====== Finish verification of te user s=========
+INFO main com.automation.Test.webAutomation.landingpage.TC01_verifyinvalidLoginUser - closing the brwoser
