@@ -34,10 +34,10 @@ public class TestBase {
 	}
 	
 	
-	public void chooseBrowser(String browser) {
+	public void chooseBrowser(String browsername) {
 		
 		// if it's chrome browser  instantiate a new chromebrowser this work for all
-		if(browser.equalsIgnoreCase("chrome")) {
+		if(browsername.equalsIgnoreCase("chrome")) {
 			log.info("=========create the object of browser=========");
 			driver = new ChromeDriver();
 		}
@@ -49,7 +49,7 @@ public class TestBase {
 		log.info("=========navigating to  url=========");
 		driver.get(url);// get the url string 
 		//driver.manage().window().maximize();
-		driver.manage().timeouts().implicitlyWait(60, TimeUnit.SECONDS); // set the timeout 
+		driver.manage().timeouts().implicitlyWait(2, TimeUnit.MINUTES); // set the timeout 
 	}
 	
 }

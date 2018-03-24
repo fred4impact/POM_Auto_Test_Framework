@@ -4,8 +4,6 @@
 package com.automation.Test.webAutomation.landingpage;
 
 
-
-
 import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 
@@ -36,12 +34,12 @@ public class TC01_verifyinvalidLoginUser extends TestBase{
 		log.info("==== setting up our brwoser=========");
 		setupBrowser(); // call the set up browser here 
 		
-		
 //		driver = new ChromeDriver();
 //		driver.get("https://www.gumtree.com");
 //		driver.manage().timeouts().implicitlyWait(60, TimeUnit.SECONDS);
 	 }
 	 
+
 	 
 
 	 // sample my test
@@ -56,11 +54,11 @@ public class TC01_verifyinvalidLoginUser extends TestBase{
 		
 //      driver.findElement(By.className("header-nav-link")).click();
 //      driver.findElement(By.xpath("//*[@id=\"email\"]")).sendKeys("run.soemthing@gmail.com");
-//	  driver.findElement(By.xpath("//*[@id=\"fld-password\"]")).sendKeys("000654");
-//	  driver.findElement(By.tagName("button")).submit();
+//	    driver.findElement(By.xpath("//*[@id=\"fld-password\"]")).sendKeys("000654");
+//	    driver.findElement(By.tagName("button")).submit();
 //	 
-//	  String checkasert = driver.findElement(By.xpath("//*[@id=\"username_elementnotice\"]/li")).getText();
-//	  Assert.assertEquals(checkasert, "Your username or password is incorrect");		  
+//	    String checkasert = driver.findElement(By.xpath("//*[@id=\"username_elementnotice\"]/li")).getText();
+//	    Assert.assertEquals(checkasert, "Your username or password is incorrect");		  
 	  
 	 }
 	 
@@ -69,7 +67,6 @@ public class TC01_verifyinvalidLoginUser extends TestBase{
 	 // sample teardown to close the browser after class run
 	 @AfterClass
 	 public void endTest() {
-		 
         log.info("closing the brwoser");
 		 driver.quit();
 		 

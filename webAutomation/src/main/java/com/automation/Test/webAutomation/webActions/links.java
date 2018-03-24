@@ -34,7 +34,7 @@ public class links {
 			verifyLinkActive(url);
 			
 		}
-
+		 driver.close();
 	}
 	
 	
@@ -42,14 +42,18 @@ public class links {
 	{
         try 
         {
+        	// instantiate the url method
            URL url = new URL(linkUrl);
            
+        	// call the conection method
            HttpURLConnection httpURLConnect=(HttpURLConnection)url.openConnection();
            
-           httpURLConnect.setConnectTimeout(4000);
-           
+           //use the connection property 
+           httpURLConnect.setConnectTimeout(5000);
+           // connect to the application 
            httpURLConnect.connect();
            
+           // get http response 
            if(httpURLConnect.getResponseCode()==200)
            {
                System.out.println(linkUrl+" - "+httpURLConnect.getResponseMessage());
@@ -62,6 +66,7 @@ public class links {
            
         }
     } 
+	
 	
 
 }
