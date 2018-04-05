@@ -17,7 +17,7 @@ public class links {
 	
         WebDriver driver=new ChromeDriver();
 		driver.manage().window().maximize();
-		driver.get("http://www.asos.com/");
+		driver.get("https://www.houseoffraser.co.uk");
 		
 		// turn this to find by object
 		List<WebElement> links=driver.findElements(By.tagName("a"));
